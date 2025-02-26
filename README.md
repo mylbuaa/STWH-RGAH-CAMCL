@@ -1,7 +1,7 @@
 # STWH-RGAH-CAMCL
 
 
-Code for the paper 'A Dual Hypergraph Guided Cross-Adaptive Mask Coupled Learning Network for Imaging Genomics Analysis' is coming soon. Further details will be disclosed after the paper is accepted.  
+Code for the paper 'Multi-Hypergraph Guided Cross-Adaptive Mask Coupled Learning Network for Brain Imaging Genomics Analysis' is coming soon. Further details will be disclosed after the paper is accepted.  
 
 # 1 Introduction
 
